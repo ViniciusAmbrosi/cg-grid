@@ -1,0 +1,16 @@
+﻿  glad.c
+  Origem.cpp
+C:\Project\CG-2022-1\HelloGeometry\HelloGeometry\Origem.cpp(183,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\CG-2022-1\HelloGeometry\HelloGeometry\Origem.cpp(184,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\CG-2022-1\HelloGeometry\HelloGeometry\Origem.cpp(189,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Project\CG-2022-1\HelloGeometry\HelloGeometry\Origem.cpp(190,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Project\CG-2022-1\HelloGeometry\HelloGeometry\Origem.cpp(191,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\CG-2022-1\HelloGeometry\HelloGeometry\Origem.cpp(192,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\CG-2022-1\HelloGeometry\HelloGeometry\Origem.cpp(195,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Project\CG-2022-1\HelloGeometry\HelloGeometry\Origem.cpp(223,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Project\CG-2022-1\HelloGeometry\HelloGeometry\Origem.cpp(251,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Project\CG-2022-1\HelloGeometry\HelloGeometry\Origem.cpp(252,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Shader.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  HelloGeometry.vcxproj -> C:\Project\CG-2022-1\HelloGeometry\x64\Debug\HelloGeometry.exe
